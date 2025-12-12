@@ -19,10 +19,10 @@ Easily switch between Chats, Status, and Calls using the tab bar at the top. Eac
 
 
 **THE CHAT PAGE**
-![Chat page](https://link-to-your-image.com/image.png)
+![Chat page](https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(576).png)
 
 **THE STATUS PAGE**
-![Status page](https://link-to-your-image.com/image.png)
+![Status page](https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(577).png)
 
 **CALLS PAGE**
-![Calls page](https://link-to-your-image.com/image.png)
+![Calls page](https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(578).png)
