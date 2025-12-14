@@ -69,6 +69,7 @@ lib/
 
 ```
 ## How To Run
+
 Prerequisites
   * Flutter SDK (≥3.19 recommended)
   * Dart SDK
@@ -95,6 +96,17 @@ flutter run -d linux       # Linux
 flutter run -d android     # Android emulator/device
 flutter run -d ios         # iOS simulator/device
 ```
+
+## Contributing
+
+Contributions are welcome. For significant changes, please open an issue first so we can discuss it.
+
+---
+Built with passion by Mr. Sifon. Don’t forget to star the repo if you find it useful!
+
+
+
+
 
 
 
