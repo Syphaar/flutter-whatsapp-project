@@ -29,8 +29,7 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
   <img src="https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(576).png" width="700" height="500" alt="Home Screen" />
 </p>
 
-
-*This is the home screen, which doubles as the chat page. Here, you can quickly see your current chats, pending chats, pending messages and the messages that you've opened and are yet to be replied. It also displays messages from work and friend groups.*
+*This is the home screen, which doubles as the chat page. Here, you can quickly see your current chats, pending chats and messages you've opened and are yet to reply. It also displays messages from work and friend groups.*
 
 ### Status Page
 <p align="center">
@@ -48,10 +47,10 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 
 ## Features
 
-- **Chats Page:** Displays all conversations with contact name, profile picture, last message, and timestamp. Tap to open a chat.  
-- **Status Page:** Shows friends’ latest statuses. You can scroll through updates and view who has seen your status.  
-- **Calls Page:** Shows recent voice/video calls with call type (incoming/outgoing/missed) and timestamp.  
-- **Navigation:** Switch seamlessly between Chats, Status, and Calls using the botton navigation bar.
+- **Chat Page:** Displays all conversations with contact name, profile picture, last message, and timestamp. Tap to open a chat.  
+- **Status Page:** Shows friends’ latest statuses. You can scroll through updates and view all uploaded status.  
+- **Call Page:** Shows recent voice/video calls with call type (incoming/outgoing/missed) and timestamp.  
+- **Navigation:** Switch seamlessly between Chats, Status, and Calls using the bottom navigation bar.
 
 ## Tech Stack
 
@@ -89,7 +88,7 @@ flutter pub get
 flutter run
 ```
 
-## Supports All Platforms: 
+### Supports All Platforms: 
 ```
 flutter run -d chrome      # Web
 flutter run -d windows      # Windows
