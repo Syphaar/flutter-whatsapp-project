@@ -2,13 +2,9 @@
 
 A Flutter-based messaging app inspired by WhatsApp. This project replicates the core features of WhatsApp with a clean, modern interface, including chats, status updates, and call logs. The app is fully responsive and optimized for mobile devices.
 
----
-
 ## Live Preview
 
 [View Live Demo](#) <!-- Replace # with your live URL if you have one -->
-
----
 
 ## Features
 
