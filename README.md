@@ -17,6 +17,7 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 - Responsive layout for different screen sizes
 - Smooth navigation between tabs
 - Reusable Flutter widgets for messages, status updates, and call logs
+- Works perfectly on Android, iOS, Web, macOS, Windows and Linux
 
 ---
 
@@ -25,18 +26,21 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 ### Chats Page
 ![Chats Page](path/to/chat-screenshot.png) <!-- Replace with your screenshot link -->
 
-*This is the home screen, which doubles as the chat page. Here, you can quickly see your current balance, access withdrawal options, and manage your gift cards or cryptocurrency trades. The "Hot Gift Cards" section highlights popular brands like Apple iTunes, Razor Gold, Steam, Sephora, and Tremendous Visa.*
-
+*This is the home screen, which doubles as the chat page. Here, you can quickly see your current chats, pending chats, pending messages and the messages that you've opened and are yet to be replied. It also displays messages from work and friend groups.*
 
 ### Status Page
 ![Status Page](path/to/status-screenshot.png)
 
+*This is where you'll view updated status from your friends an people that you have their numbers currently save to your device.*
+
 ### Calls Page
 ![Calls Page](path/to/calls-screenshot.png)
 
+*If you have received or missed any voice call or video call, this is the page that displays them. It helps you keep track of your call history with work, friends and family.*
+
 ---
 
-## How It Works
+## Features
 
 - **Chats Page:** Displays all conversations with contact name, profile picture, last message, and timestamp. Tap to open a chat.  
 - **Status Page:** Shows friends’ latest statuses. You can scroll through updates and view who has seen your status.  
@@ -64,7 +68,24 @@ lib/
 └─ main.dart
 
 ```
+##How To Run
+Prerequisites
+  * Flutter SDK (≥3.19 recommended)
+  * Dart SDK
 
+##Installation & Run
+
+```
+# 1. Clone the repo
+git clone https://github.com/MadukaJP/Aptech-Flutter-Project-Three.git
+cd Aptech-Flutter-Project-Three
+
+# 2. Get dependencies
+flutter pub get
+
+# 3. Run the app
+flutter run
+```
 
 
 
