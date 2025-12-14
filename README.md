@@ -1,4 +1,4 @@
-WhatsApp Flutter Clone
+##WhatsApp Flutter Clone
 
 This is a Flutter-based messaging app inspired by WhatsApp. It brings the core features of WhatsApp into a clean, modern interface, including chats, status updates, and call logs. The app is designed to be intuitive, responsive, and easy to navigate, giving users a smooth messaging experience on any device.
 
