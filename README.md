@@ -25,6 +25,9 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 ### Chats Page
 ![Chats Page](path/to/chat-screenshot.png) <!-- Replace with your screenshot link -->
 
+*This is the home screen, which doubles as the chat page. Here, you can quickly see your current balance, access withdrawal options, and manage your gift cards or cryptocurrency trades. The "Hot Gift Cards" section highlights popular brands like Apple iTunes, Razor Gold, Steam, Sephora, and Tremendous Visa.*
+
+
 ### Status Page
 ![Status Page](path/to/status-screenshot.png)
 
@@ -50,6 +53,8 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 ---
 
 ## Project Structure
+
+---
 
 
 
