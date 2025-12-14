@@ -26,7 +26,7 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 ### Chats Page
 ![Chats Page](path/to/chat-screenshot.png) <!-- Replace with your screenshot link -->
 <p align="center">
-  <img src="https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(576).png" width="280" alt="Home Screen" />
+  <img src="https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(576).png" width="500" alt="Home Screen" />
 </p>
 
 
