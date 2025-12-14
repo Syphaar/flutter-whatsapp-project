@@ -5,6 +5,27 @@
 | foregroundColor | #121117  | Cards & form background    |
 | blue            | #2A60E9  | Primary accent             |
 
+
+
+
+
+
+This will format it nicely in your README.
+
+---
+
+## 8. **Line Breaks & Paragraphs**
+
+- Use **two spaces at the end of a line** to break a line.  
+- Blank lines between paragraphs create spacing.
+
+Example:
+
+```markdown
+A beautiful Flutter UI for students.  
+Supports Desktop, Tablet, and Mobile layouts seamlessly.
+
+
 This is a Flutter-based messaging app inspired by WhatsApp. It brings the core features of WhatsApp into a clean, modern interface, including chats, status updates, and call logs. The app is designed to be intuitive, responsive, and easy to navigate, giving users a smooth messaging experience on any device.
 
 How It Works
