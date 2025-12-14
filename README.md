@@ -41,7 +41,7 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 - **Chats Page:** Displays all conversations with contact name, profile picture, last message, and timestamp. Tap to open a chat.  
 - **Status Page:** Shows friends’ latest statuses. You can scroll through updates and view who has seen your status.  
 - **Calls Page:** Shows recent voice/video calls with call type (incoming/outgoing/missed) and timestamp.  
-- **Navigation:** Switch seamlessly between Chats, Status, and Calls using the top tab bar.
+- **Navigation:** Switch seamlessly between Chats, Status, and Calls using the botton navigation bar.
 
 ---
 
@@ -53,7 +53,14 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 ---
 
 ## Project Structure
+```
+lib/
+|-pages/
+|  |-calls_page.dart
+|  |-chat_page.dart
+|  |_status_page.dart
 
+```
 
 
 
