@@ -73,7 +73,7 @@ Prerequisites
   * Flutter SDK (≥3.19 recommended)
   * Dart SDK
 
-## Installation & Run
+### Installation & Run
 
 ```
 # 1. Clone the repo
