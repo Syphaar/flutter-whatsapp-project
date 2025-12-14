@@ -68,23 +68,32 @@ lib/
 └─ main.dart
 
 ```
-##How To Run
+## How To Run
 Prerequisites
   * Flutter SDK (≥3.19 recommended)
   * Dart SDK
 
-##Installation & Run
+## Installation & Run
 
 ```
 # 1. Clone the repo
-git clone https://github.com/MadukaJP/Aptech-Flutter-Project-Three.git
-cd Aptech-Flutter-Project-Three
+git clone https://github.com/Syphaar/flutter-whatsapp-project
 
 # 2. Get dependencies
 flutter pub get
 
 # 3. Run the app
 flutter run
+```
+
+Supports All Platforms: 
+```
+flutter run -d chrome      # Web
+flutter run -d windows      # Windows
+flutter run -d macos       # macOS
+flutter run -d linux       # Linux
+flutter run -d android     # Android emulator/device
+flutter run -d ios         # iOS simulator/device
 ```
 
 
