@@ -1,46 +1,56 @@
-## WhatsApp Flutter Clone
-| Name             | Hex       | Usage                      |
-|-----------------|----------|----------------------------|
-| backgroundColor | #151B29  | Main background            |
-| foregroundColor | #121117  | Cards & form background    |
-| blue            | #2A60E9  | Primary accent             |
+# WhatsApp Flutter Clone
 
-
-
-
-
-
-This will format it nicely in your README.
+A Flutter-based messaging app inspired by WhatsApp. This project replicates the core features of WhatsApp with a clean, modern interface, including chats, status updates, and call logs. The app is fully responsive and optimized for mobile devices.
 
 ---
 
-## 8. **Line Breaks & Paragraphs**
+## Live Preview
 
-- Use **two spaces at the end of a line** to break a line.  
-- Blank lines between paragraphs create spacing.
+[View Live Demo](#) <!-- Replace # with your live URL if you have one -->
 
-Example:
+---
 
-```markdown
-A beautiful Flutter UI for students.  
-Supports Desktop, Tablet, and Mobile layouts seamlessly.
+## Features
 
+- Fully functional Chats, Status, and Calls pages
+- Modern, clean UI design
+- Responsive layout for different screen sizes
+- Smooth navigation between tabs
+- Reusable Flutter widgets for messages, status updates, and call logs
 
-This is a Flutter-based messaging app inspired by WhatsApp. It brings the core features of WhatsApp into a clean, modern interface, including chats, status updates, and call logs. The app is designed to be intuitive, responsive, and easy to navigate, giving users a smooth messaging experience on any device.
+---
 
-How It Works
+## Screenshots
 
-Chats Page:
-Shows all your conversations in one place. Each chat displays the contact’s name, profile picture, last message, and the time it was sent. Tap any chat to open the conversation and start messaging.
+### Chats Page
+![Chats Page](path/to/chat-screenshot.png) <!-- Replace with your screenshot link -->
 
-Status Page:
-Keeps you updated with your friends’ latest statuses. You can scroll through new and old updates, and see who has viewed your own status.
+### Status Page
+![Status Page](path/to/status-screenshot.png)
 
-Calls Page:
-Shows your recent voice and video calls with contact names, call types (incoming, outgoing, or missed), and timestamps. You can quickly start a new call directly from this page.
+### Calls Page
+![Calls Page](path/to/calls-screenshot.png)
 
-Navigation:
-Easily switch between Chats, Status, and Calls using the tab bar at the top. Each page is optimized with proper spacing and scrolling so everything looks clean and organized.
+---
+
+## How It Works
+
+- **Chats Page:** Displays all conversations with contact name, profile picture, last message, and timestamp. Tap to open a chat.  
+- **Status Page:** Shows friends’ latest statuses. You can scroll through updates and view who has seen your status.  
+- **Calls Page:** Shows recent voice/video calls with call type (incoming/outgoing/missed) and timestamp.  
+- **Navigation:** Switch seamlessly between Chats, Status, and Calls using the top tab bar.
+
+---
+
+## Tech Stack
+
+- **Flutter**
+- **Dart**
+
+---
+
+## Project Structure
+
 
 
 
