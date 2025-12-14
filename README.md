@@ -55,10 +55,13 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 ## Project Structure
 ```
 lib/
-|-pages/
-|  |-calls_page.dart
-|  |-chat_page.dart
-|  |_status_page.dart
+├─ pages/
+│  ├─ calls_page.dart
+│  ├─ chat_page.dart
+│  └─ status_page.dart
+├─ chat_card.dart
+├─ home.dart
+└─ main.dart
 
 ```
 
