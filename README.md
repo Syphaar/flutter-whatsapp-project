@@ -25,6 +25,10 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 
 ### Chats Page
 ![Chats Page](path/to/chat-screenshot.png) <!-- Replace with your screenshot link -->
+<p align="center">
+  <img src="https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(576).png" width="280" alt="Home Screen" />
+</p>
+
 
 *This is the home screen, which doubles as the chat page. Here, you can quickly see your current chats, pending chats, pending messages and the messages that you've opened and are yet to be replied. It also displays messages from work and friend groups.*
 
