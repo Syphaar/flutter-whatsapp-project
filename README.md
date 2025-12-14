@@ -54,7 +54,6 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 
 ## Project Structure
 
----
 
 
 
