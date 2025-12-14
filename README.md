@@ -2,9 +2,9 @@
 
 A Flutter-based messaging app inspired by WhatsApp. This project replicates the core features of WhatsApp with a clean, modern interface, including chats, status updates, and call logs. The app is fully responsive and optimized for mobile devices.
 
-## Live Preview
+<!-- ## Live Preview -->
 
-[View Live Demo](#) <!-- Replace # with your live URL if you have one -->
+<!-- [View Live Demo](#) --> <!-- Replace # with your live URL if you have one -->
 
 ## Features
 
@@ -76,6 +76,7 @@ Prerequisites
 ```
 # 1. Clone the repo
 git clone https://github.com/Syphaar/flutter-whatsapp-project
+cd flutter-whatsapp-project
 
 # 2. Get dependencies
 flutter pub get
