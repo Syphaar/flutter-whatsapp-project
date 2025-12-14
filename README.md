@@ -24,31 +24,27 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 ## Screenshots
 
 ### Chats Page
-![Chats Page](path/to/chat-screenshot.png) <!-- Replace with your screenshot link -->
+
 <p align="center">
-  <img src="https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(576).png" width="500" height="300" alt="Home Screen" />
+  <img src="https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(576).png" width="700" height="500" alt="Home Screen" />
 </p>
 
 
 *This is the home screen, which doubles as the chat page. Here, you can quickly see your current chats, pending chats, pending messages and the messages that you've opened and are yet to be replied. It also displays messages from work and friend groups.*
 
 ### Status Page
-![Status Page](path/to/status-screenshot.png)
 <p align="center">
-  <img src="https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(577).png" width="500" height="300" alt="Status Page" />
+  <img src="https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(577).png" width="700" height="500" alt="Status Page" />
 </p>
 
-*This is where you'll view updated status from your friends an people that you have their numbers currently save to your device.*
+*This is where you'll view updated status from your friends and people you have their numbers currently save to your device.*
 
 ### Calls Page
-![Calls Page](path/to/calls-screenshot.png)
 <p align="center">
-  <img src="https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(578).png" width="500" height="300" alt="Call Page" />
+  <img src="https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(578).png" width="700" height="500" alt="Call Page" />
 </p>
 
 *If you have received or missed any voice call or video call, this is the page that displays them. It helps you keep track of your call history with work, friends and family.*
-
----
 
 ## Features
 
@@ -57,14 +53,10 @@ A Flutter-based messaging app inspired by WhatsApp. This project replicates the 
 - **Calls Page:** Shows recent voice/video calls with call type (incoming/outgoing/missed) and timestamp.  
 - **Navigation:** Switch seamlessly between Chats, Status, and Calls using the botton navigation bar.
 
----
-
 ## Tech Stack
 
 - **Flutter**
 - **Dart**
-
----
 
 ## Project Structure
 ```
@@ -97,7 +89,7 @@ flutter pub get
 flutter run
 ```
 
-Supports All Platforms: 
+## Supports All Platforms: 
 ```
 flutter run -d chrome      # Web
 flutter run -d windows      # Windows
@@ -113,18 +105,3 @@ Contributions are welcome. For significant changes, please open an issue first s
 
 ---
 Built with passion by Mr. Sifon. Don’t forget to star the repo if you find it useful!
-
-
-
-
-
-
-
-**THE CHAT PAGE**
-![Chat page](https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(576).png)
-
-**THE STATUS PAGE**
-![Status page](https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(577).png)
-
-**CALLS PAGE**
-![Calls page](https://github.com/Syphaar/flutter-whatsapp-project/blob/32e8fa900a09baa34d70cc4ac8cb39ca76207faa/Screenshot%20(578).png)
